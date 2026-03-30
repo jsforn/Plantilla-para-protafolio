@@ -1,4 +1,4 @@
-# Plantilla-para-protafolio ejempplo
+# Plantilla-para-protafolio ejemplo
 # 📱 Portfolio – Desarrollo de Aplicaciones Móviles
 
 ## 👩‍💻 Jonathan Sierra Fornerod
