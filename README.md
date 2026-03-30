@@ -5,7 +5,7 @@
 
 Desarrollador de aplicaciones móviles enfocada en la creación de soluciones prácticas, integrando consumo de APIs, persistencia de datos y experiencia de usuario.
 
-📧 jsfornerod@ejemplo.com
+📧 jsfornerod@gmail.com
 
 🔗 LinkedIn: ---
 
